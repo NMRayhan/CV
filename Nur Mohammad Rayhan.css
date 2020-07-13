@@ -1,0 +1,24 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.imgdiv img{
+	width:100px;
+	height:100px;
+	float:left;
+	padding-left:50px;
+	display:block;
+	border-radius:50px;
+	
+}
+.namediv{
+	display:block;
+	text-align:left;
+	float:left;
+	padding-left:20px;
+}
+.addressdiv{
+	display:block;
+	float:right;
+	padding-right:50px;
+}
